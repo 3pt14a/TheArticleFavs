@@ -506,6 +506,7 @@ footer {
 
     .navig ul a {
        font-size: 13px; 
+       padding: 5px 12px 12px 0; 
     }
 
     .leftside {
